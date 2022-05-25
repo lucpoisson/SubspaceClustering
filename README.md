@@ -13,11 +13,13 @@ In this repository we provide the code and some guided example to help the reade
 
 | File                          | Description                                                                                                                                                    |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ```/K2mix``` | Solver for the fixed point equations of the order parameters in the case of classification tasks on K=2 Gaussian clusters with nonhomogeneous diagonal covariances. The notebook [```how_to.ipynb```](https://github.com/gsicuro/GaussMixtureProject/blob/main/K2mix/how_to.ipynb) provides a step-by-step explanation on how to use the package. This implementation has been used to produce the results in Section 3.1 of the paper.           |
-| ```/multiK``` | Solver for the fixed point equations of the order parameters in the case of classification tasks on K Gaussian clusters with diagonal covariances. The notebook [```how_to.ipynb```](https://github.com/gsicuro/GaussMixtureProject/blob/main/multiK/how_to.ipynb) provides a step-by-step explanation on how to use the package. This implementation has been used to produce the results in Section 3.2 of the paper.                                     |
-
+| ```/AMP_SE`` | Solver for AMP and its State Evolution (SE) equations. The notebook [```how_to.ipynb```] provides a step-by-step explanation on how to use the package. This implementation has been used to produce the results in Section 4/5 of the paper.           |
+| ```/Miscellaneous```` | Solver for the general-purpose algorithms PCA, sparse PCA and Diagonal Thresholding. The notebook [```how_to.ipynb```]
+provides a step-by-step explanation on how to use the package. This implementation has been used to produce the results in Section 3.2 of the paper.                                     |
 The notebooks are self-explanatory.
 
 ## Reference
 
-[1] *
+[1]*Subspace clustering in high-dimensions: Phase transitions \& Statistical-to-Computational gap*,
+Luca Pesce, Bruno Loureiro, Florent Krzakala, Lenka Zdeborová, [arXiv: XXXX.XXXX](https://arxiv.org/abs/XXXX.XXXX)[stat.ML]
+
