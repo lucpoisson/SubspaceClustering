@@ -14,8 +14,9 @@ In this repository we provide the code and some guided example to help the reade
 | File                          | Description                                                                                                                                                    |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |/AMP_SE| Solver for AMP and its State Evolution (SE) equations. The notebook [```how_to.ipynb```] provides a step-by-step explanation on how to use the package. This implementation has been used to produce the results in Section 4/5 of the paper.           |
-| /Miscellaneous | Solver for the general-purpose algorithms PCA, sparse PCA and Diagonal Thresholding. The notebook [```how_to.ipynb```]
-provides a step-by-step explanation on how to use the package. This implementation has been used to produce the results in Section 3.2 of the paper.                                     |
+| /Miscellaneous | Solver for the general-purpose algorithms PCA, sparse PCA and Diagonal Thresholding. The notebook [```how_to.ipynb```] provides a step-by-step explanation on how to use the package. This implementation has been used to produce the results in Section 3.2 of the paper.                      |
+
+
 The notebooks are self-explanatory.
 
 ## Reference
