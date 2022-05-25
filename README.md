@@ -22,5 +22,5 @@ The notebooks are self-explanatory.
 ## Reference
 
 [1]*Subspace clustering in high-dimensions: Phase transitions \& Statistical-to-Computational gap*,
-Luca Pesce, Bruno Loureiro, Florent Krzakala, Lenka Zdeborová, [arXiv: XXXX.XXXX](https://arxiv.org/abs/XXXX.XXXX)[stat.ML]
+Luca Pesce, Bruno Loureiro, Florent Krzakala, Lenka Zdeborová [arXiv: XXXX.XXXX](https://arxiv.org/abs/XXXX.XXXX)[stat.ML]
 
