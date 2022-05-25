@@ -6,8 +6,7 @@ Repository for the paper [*Subspace clustering in high-dimensions: Phase transit
   <img src="https://github.com/IdePHICS/RandomLabelsUniversality/blob/main/Figures/zero_reg.jpeg" height="270" />
 </p>
 
-*An illustration of the universality in high-dimension: The training loss is shown as function of the number of samples n per input dimension p at vanishing regularization. In the left panel the square loss, in the right panel the hinge loss. The black solid line represents the
-outcome of the theoretical calculation for iid Gaussian inputs, while dots refer to numerical simulations on different full-rank datasets.*
+*An illustration of the phase diagram for the clustering of two-classes sparse homogeneous Gaussian Mixture. We colour each region according to the associated *reconstruction phase*. The different phases are separated by different thresholds. 
 
 ## Structure
 
@@ -22,5 +21,4 @@ The notebooks are self-explanatory.
 
 ## Reference
 
-[1] *Gaussian Universality of Linear Classifiers with Random Labels in High-Dimension*,
-Federica Gerace, Florent Krzakala, Bru
+[1] *
