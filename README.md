@@ -3,7 +3,7 @@
 Repository for the paper [*Subspace clustering in high-dimensions: Phase transitions \& Statistical-to-Computational gap*](https://arxiv.org/abs/XXXX.XXXX). 
 
 <p float="left">
-  <img src="https://github.com/lucpoisson/SubspaceClustering/blob/main/Figures/subspace_fig.001.jpeg" height="270" />
+  <img src="https://github.com/lucpoisson/SubspaceClustering/blob/main/Figures/subspace2.png" height="270" />
 </p>
 An illustration of the phase diagram for the clustering of two-classes sparse homogeneous Gaussian Mixture. We colour each region according to the associated *reconstruction phase*. The different phases are separated by different thresholds. 
 
