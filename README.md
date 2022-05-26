@@ -5,7 +5,7 @@ Repository for the paper [*Subspace clustering in high-dimensions: Phase transit
 <p float="left">
   <img src="https://github.com/lucpoisson/SubspaceClustering/blob/main/Figures/subspace2.png" height="470" />
 </p>
-An illustration of the phase diagram for the clustering of two-classes sparse homogeneous Gaussian Mixture. We colour each region according to the associated *reconstruction phase*. The different phases are separated by different thresholds. 
+An illustration of the phase diagram for the clustering of two-classes sparse homogeneous Gaussian Mixture. We colour each region according to the associated *reconstruction phase* . The different phases are separated by the associated *thresholds* . 
 
 ## Structure
 
