@@ -1,6 +1,6 @@
 # SubspaceClustering  (:warning: under construction! :construction: :construction_worker:)
 
-Repository for the paper [*Subspace clustering in high-dimensions: Phase transitions \& Statistical-to-Computational gap*](https://arxiv.org/abs/XXXX.XXXX). 
+Repository for the paper [*Subspace clustering in high-dimensions: Phase transitions \& Statistical-to-Computational gap*](https://arxiv.org/abs/2205.13527). 
 
 <p float="left">
   <img src="https://github.com/lucpoisson/SubspaceClustering/blob/main/Figures/subspace2.png" height="470" />
@@ -22,5 +22,5 @@ The notebooks are self-explanatory.
 ## Reference
 
 [1]*Subspace clustering in high-dimensions: Phase transitions \& Statistical-to-Computational gap*,
-Luca Pesce, Bruno Loureiro, Florent Krzakala, Lenka Zdeborová [arXiv: XXXX.XXXX](https://arxiv.org/abs/XXXX.XXXX)[stat.ML]
+Luca Pesce, Bruno Loureiro, Florent Krzakala, Lenka Zdeborová [arXiv: 2205.13527](https://arxiv.org/abs/2205.13527)[stat.ML]
 
