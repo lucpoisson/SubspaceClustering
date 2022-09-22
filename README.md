@@ -1,4 +1,4 @@
-# SubspaceClustering  (:warning: under construction! :construction: :construction_worker:)
+# SubspaceClustering 
 
 Repository for the paper [*Subspace clustering in high-dimensions: Phase transitions \& Statistical-to-Computational gap*](https://arxiv.org/abs/2205.13527). 
 
