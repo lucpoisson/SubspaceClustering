@@ -17,7 +17,6 @@ In this repository we provide the code and some guided example to help the reade
 | /Miscellaneous | Solver for the general-purpose algorithms PCA, sparse PCA and Diagonal Thresholding. The notebook [```/Miscellaneous/how_to_mix.ipynb```] provides a step-by-step explanation on how to use the package. This implementation has been used to produce the results in Sections 4/5/6 of the paper.                  |
 
 
-The notebooks are self-explanatory and the repository will be updated with cleaned code in the shortest delay.
 
 ## Reference
 
